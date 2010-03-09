@@ -1,4 +1,4 @@
-jQuery auto completion with the auto-complete library by Corey Hart's (http://plugins.jquery.com/project/auto-complete).
+jQuery auto completion with the auto-complete library by Corey Hart (http://plugins.jquery.com/project/auto-complete).
 
 This is just a stub, I'll write up the basic details later. Just take a look at jac_example if you want to get a basic idea of how you can use this app.
 
