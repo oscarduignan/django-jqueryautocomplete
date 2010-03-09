@@ -7,7 +7,7 @@ from django.utils.safestring import mark_safe
 class JQueryAutoCompleteTextInput(forms.TextInput):
     """
     A text input with jQuery auto completion, using the auto-complete
-    plugin from Dave Corey.
+    plugin from Corey Hart.
     
     (http://www.codenothing.com/demos/2009/auto-complete/docs.html)
 
