@@ -55,3 +55,12 @@ class JQueryAutoCompleteTextInput(forms.TextInput):
             'options': self.jquery_options or '{}',
             'source': source, 
         })
+
+    class Media:
+        css = {
+            'all': ('jquery.auto-complete.css',)
+        }
+        js = (
+            'jquery.min.js',
+            'jquery.auto-complete.js',
+        )
