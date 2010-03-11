@@ -1,3 +1,5 @@
 license.txt
 readme.txt
 setup.py
+jqueryautocomplete/__init__.py
+jqueryautocomplete/widgets.py
